@@ -13,7 +13,7 @@
         compatible = "zmk,combos";
 
         altgr {
-            bindings = <&kp RIGHT_ALT>;
+            bindings = <&sk RIGHT_ALT>;
             key-positions = <12 36>;
         };
     };
